@@ -28,4 +28,4 @@ und läuft als dauerhafter Dienst auf einem selbstgehosteten Server.
 | 8 GB DDR 3 RAM    |
 | N3350 Celeron®    |
 | 32 GB SSD         |
-| 250 MBit/s        |
+| 250 MBit/s LAN    |

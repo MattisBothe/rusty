@@ -20,3 +20,12 @@ und läuft als dauerhafter Dienst auf einem selbstgehosteten Server.
 | Hosting           | Selbstgehostet           |
 | Prozessverwaltung | systemd                  |
 | Plattform         | Discord                  |
+
+## Momentane Hardware für den Betrieb
+
+| Komponente        |
+|-------------------|
+| 8 GB DDR 3 RAM    |
+| N3350 Celeron®    |
+| 32 GB SSD         |
+| 250 MBit/s        |

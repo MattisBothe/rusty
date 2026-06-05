@@ -34,3 +34,21 @@ In der env Datei müsst ihr euren Discord Token, Gemini API und Discord ID einge
 | N3350 Celeron®    |
 | 32 GB SSD         |
 | 250 MBit/s LAN    |
+
+## Features
+
+KI-Antworten via Gemini 2.5 Flash Lite
+Whitelist-System – nur freigeschaltete User können /ask nutzen
+Nutzungsstatistiken mit Top-User-Rangliste
+System-Infos (CPU, RAM, GPU, Uptime)
+Logging – jede Frage & Antwort wird pro User gespeichert
+
+## Commands
+
+| Command | Beschreibung                  | Zugang|
+|---------|-------------------------------|-----------|
+| /ask    |Stelle Rusty eine Frage        | Whitelist |
+| /ping   |Zeigt den aktuellen Ping       | Alle      |
+| /uptime |Wie lange Rusty schon läuft    | Owner     |
+| /info   |System-Infos des Servers       | Owner     |
+| /stats  |Nutzungsstatistiken & Top-User | Owner     |

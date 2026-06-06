@@ -14,9 +14,9 @@ Ein Raspberry Pi Zero W sollte theoretisch als Server ausreichen.
 Es wurde aber noch nicht getestet.
 
 ## Zukünftig geplante Funktionen
-| Funktionen  | Infos                      |
-|-------------|----------------------------|
-| Glücksspiel | Es wird ohne Geld usw sein |
+| Funktionen  | Infos                      | Geplante veröffentlichung |
+|-------------|----------------------------|---------------------------|
+| Glücksspiel | Es wird ohne Geld usw sein | 07.06.2026                |
 
 ## Technischer Überblick
 

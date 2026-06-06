@@ -11,11 +11,6 @@ verfügt Rusty über einen klar definierten Charakter – frech, direkt und loya
 gegenüber seinem Betreiber. Technisch basiert er auf der Google Gemini API
 und läuft als dauerhafter Dienst auf einem selbstgehosteten Server.
 
-## Wie zu nutzen?
-
-Im Code könnt ihr wo xxx steht euren eigenen Namen eintragen sodas der Bot auch Richtig antwortet.
-In der env Datei müsst ihr euren Discord Token, Gemini API und Discord ID eingeben
-
 ## Technischer Überblick
 
 | Komponente        | Details                  |

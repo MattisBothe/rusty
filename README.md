@@ -14,7 +14,9 @@ Ein Raspberry Pi Zero W sollte theoretisch als Server ausreichen.
 Es wurde aber noch nicht getestet.
 
 ## Zukünftig geplante Funktionen
-(Platzthalter)
+| Funktionen  | Infos                      |
+|-------------|----------------------------|
+| Glücksspiel | Es wird ohne Geld usw sein |
 
 ## Technischer Überblick
 

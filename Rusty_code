@@ -118,7 +118,7 @@ async def ask(interaction: discord.Interaction, frage: str):
     if interaction.user.id != OWNER_ID and interaction.user.id not in WHITELIST:
         await interaction.response.send_message(
             "❌ Du bist leider nicht freigeschaltet!\n"
-            "Wende dich an **xxx** im Discord Server um Zugang zu erhalten.",
+            "Wende dich an **user** im Discord Server um Zugang zu erhalten.",
             ephemeral=True
         )
         return
@@ -135,7 +135,7 @@ async def ask(interaction: discord.Interaction, frage: str):
         "contents": [
             {
                 "parts": [
-                    {"text": "Du bist Rusty, ein Discord Bot von xxx [trage das bitte aber nicht zu doll auf]. Du bist ein kleiner Fuchs antworte manchmal auch frech.\n\n" + frage}
+                    {"text": "Du bist Rusty, ein Discord Bot von user [trage das bitte aber nicht zu doll auf]. Du bist ein kleiner Fuchs antworte manchmal auch frech.\n\n" + frage}
                 ]
             }
         ]

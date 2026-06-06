@@ -34,7 +34,18 @@ In der env Datei müsst ihr euren Discord Token, Gemini API und Discord ID einge
 | N3350 Celeron®    |
 | 32 GB SSD         |
 | 250 MBit/s LAN    |
-**Es wird auch mit weniger hardware laufen**
+
+## Minimale Hardware
+
+| Komponent  | Minimum              |
+|------------|----------------------|
+| CPU        | Single-core ~500 MHz |
+| RAM        | 128 MB               |
+| Speicher   | 50mb bis 5GB         |
+| Verbindung | ~1 Mbit/s            |
+| Python     | 3.10+                |
+| OS         | Jedes Linux terminal |
+
 ## Features
 
 KI-Antworten via Gemini 2.5 Flash Lite

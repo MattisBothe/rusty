@@ -41,7 +41,6 @@ Es wurde aber noch nicht getestet.
 | Speicher   | 50mb bis 5GB         |
 | Verbindung | ~1 Mbit/s            |
 | Python     | 3.10+                |
-| OS         | Jedes Linux terminal |
 
 ## Features
 

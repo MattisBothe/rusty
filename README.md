@@ -14,6 +14,7 @@ Ein Raspberry Pi Zero W sollte theoretisch als Server ausreichen.
 Es wurde aber noch nicht getestet.
 
 ## Zukünftig geplante Funktionen
+(Platzthalter)
 
 ## Technischer Überblick
 

@@ -10,6 +10,8 @@ unterhaltsamer zu gestalten. Anstatt auf generische Bot-Antworten zu setzen,
 verfügt Rusty über einen klar definierten Charakter – frech, direkt und loyal
 gegenüber seinem Betreiber. Technisch basiert er auf der Google Gemini API
 und läuft als dauerhafter Dienst auf einem selbstgehosteten Server.
+Ein Raspberry Pi Zero W sollte theoretisch als Server ausreichen.
+Es wurde aber noch nicht getestet.
 
 ## Technischer Überblick
 

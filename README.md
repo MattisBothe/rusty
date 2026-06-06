@@ -13,6 +13,8 @@ und läuft als dauerhafter Dienst auf einem selbstgehosteten Server.
 Ein Raspberry Pi Zero W sollte theoretisch als Server ausreichen.
 Es wurde aber noch nicht getestet.
 
+## Zukünftig geplante Funktionen
+
 ## Technischer Überblick
 
 | Komponente        | Details                  |

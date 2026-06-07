@@ -2,7 +2,7 @@
 
 ## Unser Versprechen
 
-Ich als Maintainer verpflichten mich, die Teilnahme an diesem Projekt zu einer belästigungsfreien Erfahrung für alle zu machen – unabhängig von Körpergröße, Behinderung, Ethnizität, Geschlechtsidentität, Erfahrungsstand, Aussehen, Herkunft, Religion oder sexueller Identität.
+Ich als Maintainer verpflichte mich, die Teilnahme an diesem Projekt zu einer belästigungsfreien Erfahrung für alle zu machen – unabhängig von Körpergröße, Behinderung, Ethnizität, Geschlechtsidentität, Erfahrungsstand, Aussehen, Herkunft, Religion oder sexueller Identität.
 
 ---
 
@@ -46,7 +46,7 @@ Falls du inakzeptables Verhalten beobachtest oder Sicherheitsprobleme findest, m
 
 ## Durchsetzung
 
-Ich behalte sich mir Recht vor, Beiträge abzulehnen oder Personen bei Verstößen gegen diesen Code of Conduct vom Projekt auszuschließen.
+Ich behalte mir Recht vor, Beiträge abzulehnen oder Personen bei Verstößen gegen diesen Code of Conduct vom Projekt auszuschließen.
 
 ---
 

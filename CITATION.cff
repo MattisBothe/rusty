@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Wenn du Rusty verwendest, zitiere das Projekt bitte wie unten angegeben."
+title: "Rusty"
+version: "1.0.0"
+authors:
+  - family-names: Bothe
+    given-names: Mattis
+date-released: "2026-06-04"
+url: "https://github.com/MattisBothe/rusty"
+abstract: "Rusty ist ein KI-gestützter Discord-Bot mit einer ausgeprägten Persönlichkeit, entwickelt und betrieben als privates Heimprojekt."

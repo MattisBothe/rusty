@@ -15,7 +15,7 @@ pip install discord.py requests psutil python-dotenv GPUtil
 python3 rusty.py
 
 
-##Raspberry Pi OS
+## Raspberry Pi OS
 
 1. System aktualisieren
 sudo apt update && sudo apt upgrade -y
@@ -36,7 +36,7 @@ pip install discord.py requests psutil python-dotenv GPUtil
 python3 rusty.py
 
 
-##Windows 
+## Windows 
 
 1. Python 3.10+ installieren
 Gehe zu python.org/downloads

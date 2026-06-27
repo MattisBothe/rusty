@@ -16,7 +16,7 @@ Es wurde aber noch nicht getestet.
 ## Zukünftig geplante Funktionen
 | Funktionen  | Infos                      | Geplante veröffentlichung |
 |-------------|----------------------------|---------------------------|
-| Glücksspiel | Es wird ohne Geld usw sein | 14.06.2026                |
+| Glücksspiel | Es wird ohne Geld usw sein | Idee Abgesetzt                |
 
 ## Technischer Überblick
 

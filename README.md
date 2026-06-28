@@ -16,7 +16,7 @@ Es wurde aber noch nicht getestet.
 ## Zukünftig geplante Funktionen
 | Funktionen  | Infos                      | Geplante veröffentlichung |
 |-------------|----------------------------|---------------------------|
-| Glücksspiel | Es wird ohne Geld usw sein | Idee Abgesetzt                |
+| Glücksspiel | Es wird ohne Geld usw sein | Idee Abgesetzt            |
 
 ## Technischer Überblick
 
